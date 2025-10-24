@@ -12,7 +12,7 @@ Tenho 21 anos, sou do Paraná. Acabei me interessando e gostando do universo da 
 
 
 <p align="center">
-  <img src="https://tenor.com/view/toku-tokuthedev-dev-dog-shiba-inu-gif-15587022840398528457"  width="350"/>
+  <img src="https://media.tenor.com/Y-c-B-P9-5AAAAAC/toku-tokuthedev.gif"  width="350"/>
 </p>
 
 ---
