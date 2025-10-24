@@ -10,10 +10,9 @@
 ### 👋 Hello, Devs!!
 Tenho 21 anos, sou do Paraná. Acabei me interessando e gostando do universo da programação. Sou um aventureiro no código, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso. Curto uma adrenalina, sou fã de games (principalmente os de terror) e faço piadas ruins com certa frequência.
 
-### 🐶 Um GIF para alegrar seu dia:
 
 <p align="center">
-  <img src="https://media.tenor.com/Y-c-B-P9-5AAAAAC/toku-tokuthedev.gif" width="400"/>
+  <img src="https://tenor.com/view/toku-tokuthedev-dev-dog-shiba-inu-gif-15587022840398528457"  width="350"/>
 </p>
 
 ---
