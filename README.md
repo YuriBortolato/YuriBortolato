@@ -7,7 +7,7 @@
 </div>
 
 ---
-## 👋 Hello, Devs!!
+### 👋 Hello, Devs!!
 Tenho 21 anos, sou do Paraná. Acabei me interessando e gostando do universo da programação. Sou um aventureiro no código, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso. Curto uma adrenalina, sou fã de games (principalmente os de terror) e faço piadas ruins com certa frequência.
 
 ### 🐶 Um GIF para alegrar seu dia:
@@ -33,19 +33,27 @@ Sinta-se à vontade para explorar meus projetos aqui nos repositórios! =)
 
 ### 🛠️ Tecnologias e Ferramentas
 
+**Back-end e Banco de Dados:**
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/></code>
+
+**Front-end:**
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL"/></code>
+
+**Ferramentas:**
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/></code>
-          
+
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -64,5 +72,9 @@ Sinta-se à vontade para explorar meus projetos aqui nos repositórios! =)
 ### 🐍 Animação de Contribuição
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
