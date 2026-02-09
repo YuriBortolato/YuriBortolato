@@ -48,10 +48,11 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 <div align="center">
   <a href="https://github.com/YuriBortolato">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
+  
   <a href="https://github.com/YuriBortolato">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
