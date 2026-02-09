@@ -8,12 +8,7 @@
 
 ---
 ### 👋 Hello, Devs!!
-Tenho 21 anos, sou do Paraná. Acabei me interessando e gostando do universo da programação. Sou um aventureiro no código, criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu curto tudo isso. Curto uma adrenalina, sou fã de games (principalmente os de terror) e faço piadas ruins com certa frequência.
-
-
-<p align="center">
-  <img src="https://media.tenor.com/Y-c-B-P9-5AAAAAC/toku-tokuthedev.gif"  width="350"/>
-</p>
+Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos os dias. No código, sou um entusiasta da resolução de problemas e da construção de sistemas que funcionam. Quando não estou codando, provavelmente estou imerso em algum jogo de terror ou buscando a próxima dose de adrenalina.
 
 ---
 
@@ -21,22 +16,24 @@ Tenho 21 anos, sou do Paraná. Acabei me interessando e gostando do universo da 
 
 * 💻 Cursando Análise e Desenvolvimento de Sistemas na UMFG.
 * 📚 Estudando C#, .NET, Java, Spring Boot e Desenvolvimento Web.
-* 🚀 Gosto de me aventurar em Unity, N8N e Python nas horas vagas.
-* ☕🎮 Curto uma adrenalina, sou fã de games (principalmente os de terror) e faço piadas ruins com certa frequência.
+* 💼 Experiência atual com **Delphi**, atuando na manutenção e evolução de sistemas.
+* 🚀 Focado em expandir meu stack backend com **Spring Boot**, e iniciando a jornada em **Golang** e **Flutter**.
+* ☕🎮 Curto uma adrenalina, sou fã de games (principalmente os de terror) e entusiasta de **N8N** e **Python**.
 
-Você pode falar comigo pelo [Instagram](https://instagram.com/yuribortolat_) (eu demoro a responder às vezes, mas sou legal).
-Sinta-se à vontade para explorar meus projetos aqui nos repositórios! =)
+Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
 
 ---
 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,python,php)](https://skillicons.dev)
+**Linguagens & Backend:**
 
-**Front-end:**
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,dart,cs,php,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+**Front-end & Mobile:**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flutter)](https://skillicons.dev)
 
  **Banco de Dados**:
   
@@ -54,12 +51,11 @@ Sinta-se à vontade para explorar meus projetos aqui nos repositórios! =)
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=dracula&include_all_commits=true"/>
   </a>
   <a href="https://github.com/YuriBortolato">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ---
-
 
 
 <p align="center">
