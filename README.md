@@ -29,7 +29,7 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 **Linguagens & Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,dart,cs,php,delphi,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,dart,cs,php,py)](https://skillicons.dev)
 
 **Front-end & Mobile:**
 
