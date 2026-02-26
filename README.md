@@ -29,11 +29,11 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 **Linguagens & Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,dart,cs,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,cs,php,py)](https://skillicons.dev)
 
 **Front-end & Mobile:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
  **Banco de Dados**:
   
