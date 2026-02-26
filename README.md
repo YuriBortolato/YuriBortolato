@@ -17,7 +17,7 @@ Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos 
 * 💻 Cursando Análise e Desenvolvimento de Sistemas na UMFG.
 * 📚 Estudando C#, .NET, Java, Spring Boot e Desenvolvimento Web.
 * 💼 Experiência atual com **Delphi**, atuando na manutenção e evolução de sistemas.
-* 🚀 Focado em expandir meu stack backend com **Spring Boot**, e iniciando a jornada em **Golang** e **Flutter**.
+* 🚀 Focado em expandir meu stack backend com **Spring Boot**, e iniciando a jornada em **Golang** e **React**.
 * ☕🎮 Curto uma adrenalina, sou fã de games (principalmente os de terror) e entusiasta de **N8N** e **Python**.
 
 Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
