@@ -1,9 +1,10 @@
+
 ## Yuri Gabriel Bortolato
 
-<div> 
-  <a href="https://instagram.com/yuribortolat_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yurigbort@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-gabriel-bortolato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> 
+  <a href="https://instagram.com/yuribortolat_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:yurigbort@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yuri-gabriel-bortolato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -20,7 +21,7 @@ Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos 
 * 🚀 Focado em expandir meu stack backend com **Spring Boot**, e iniciando a jornada em **Golang** e **React**.
 * ☕🎮 Curto uma adrenalina, sou fã de games (principalmente os de terror) e entusiasta de **N8N** e **Python**.
 
-Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
+Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
 
 ---
 
@@ -35,8 +36,8 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
- **Banco de Dados**:
-  
+ **Banco de Dados**:
+  
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
 
 
@@ -46,8 +47,13 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 ---
 
-  <a href="https://github.com/YuriBortolato">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula&hide=pascal,blade"/>
+<div align="center">
+  <a href="https://github.com/YuriBortolato">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=YuriBortolato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <<a href="https://github.com/YuriBortolato">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula&hide=pascal,blade"/>
 </a>
 </div>
 
@@ -55,9 +61,9 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
+  </picture>
+</p> 
