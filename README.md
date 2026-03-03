@@ -46,12 +46,7 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 ---
 
-<div align="center">
   <a href="https://github.com/YuriBortolato">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=YuriBortolato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <<a href="https://github.com/YuriBortolato">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YuriBortolato&layout=compact&langs_count=7&theme=dracula&hide=pascal,blade"/>
 </a>
 </div>
@@ -65,4 +60,4 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</p>>
