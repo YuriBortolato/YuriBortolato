@@ -48,7 +48,7 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 <div align="center">
   <a href="https://github.com/YuriBortolato">
-    <img height="180em" src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   </a>
   
  
@@ -56,7 +56,7 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=8a2be2&style=flat-square&label=VIWS" alt="Viws" />
+  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIWS" alt="Viws" />
 </div>
 
 <p align="center">
