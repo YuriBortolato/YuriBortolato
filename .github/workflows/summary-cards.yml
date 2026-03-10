@@ -2,7 +2,6 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    # Atualiza todos os dias à meia-noite
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -17,4 +16,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_PAT }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: highcontrast
