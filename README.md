@@ -48,10 +48,20 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 <div align="center">
   <a href="https://github.com/YuriBortolato">
-    <img height="180em" src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriBortolato&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
+  <br><br>
   
- 
+  <a href="https://github.com/YuriBortolato">
+    <img src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg" alt="Linguagens mais utilizadas por commits">
+  </a>
+  <br><br>
+
+  <a href="https://github.com/YuriBortolato">
+    <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub Stats Tier List"/>
+  </a>
+</div>
+
 
 ---
 
