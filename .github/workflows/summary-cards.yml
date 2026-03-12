@@ -9,10 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.MY_PAT }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: YuriBortolato
