@@ -9,7 +9,7 @@
 
 ---
 ### 👋 Hello, Devs!!
-Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos os dias. No código, sou um entusiasta da resolução de problemas e da construção de sistemas que funcionam. Quando não estou codando, provavelmente estou imerso em algum jogo de terror ou buscando a próxima dose de adrenalina.
+Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos os dias. No código, sou um entusiasta da resolução de problemas e da construção de sistemas que funcionam. Quando não estou codando, provavelmente estou imerso 
 
 ---
 
