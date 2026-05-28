@@ -48,13 +48,13 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 <div align="center">
   <a href="https://github.com/YuriBortolato">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriBortolato&theme=highcontrast&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriBortolato&theme=highcontrast&hide_border=true&cache_seconds=43200" alt="GitHub Streak" />
   </a>
   <br><br>
   
 
   <a href="https://github.com/YuriBortolato">
-    <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats Tier List"/>
+    <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=43200" alt="GitHub Stats Tier List"/>
   </a>
 </div>
 
@@ -62,13 +62,13 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIWS&cache_seconds=1800" alt="Viws" />
+  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIWS&cache_seconds=43200" alt="Viws" />
 </div>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg?cache_seconds=1800">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg?cache_seconds=1800">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg?cache_seconds=1800">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg?cache_seconds=43200">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg?cache_seconds=43200">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg?cache_seconds=43200">
   </picture>
 </p>
