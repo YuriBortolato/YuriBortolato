@@ -1,10 +1,10 @@
-
 ## Yuri Gabriel Bortolato
 
-<div> 
-  <a href="https://instagram.com/yuribortolat_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yurigbort@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-gabriel-bortolato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>  
+  <a href="https://yuribortolato.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/yuribortolat_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:yurigbort@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yuri-gabriel-bortolato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -15,16 +15,16 @@ Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos 
 
 ### 👨‍💻 Sobre mim
 
+* 🌐 **Acesse meu site:** Veja meus principais projetos e experiências no meu [Portfólio Pessoal](https://yuribortolato.vercel.app/).
 * 💻 Cursando Análise e Desenvolvimento de Sistemas na UMFG.
-* 📚 Estudando C#, .NET, Java, Spring Boot e Desenvolvimento Web.
-* 💼 Experiência atual com **Delphi**, atuando na manutenção e evolução de sistemas.
+* 📚 Estudando .NET, Java, Spring Boot, Python e Desenvolvimento Web.
+* 💼 Experiência com **Delphi**, atuando na manutenção e evolução de sistemas.
 * 🚀 Focado em expandir meu stack backend com **Spring Boot**, e iniciando a jornada em **Golang** e **React**.
 * ☕🎮 Curto uma adrenalina, sou fã de games (principalmente os de terror) e entusiasta de **N8N** e **Python**.
 
-Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
+Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
 
 ---
-
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -48,13 +48,13 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 <div align="center">
   <a href="https://github.com/YuriBortolato">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriBortolato&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriBortolato&theme=highcontrast&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
   </a>
   <br><br>
   
 
   <a href="https://github.com/YuriBortolato">
-    <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub Stats Tier List"/>
+    <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats Tier List"/>
   </a>
 </div>
 
@@ -62,13 +62,13 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIWS" alt="Viws" />
+  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIWS&cache_seconds=1800" alt="Viws" />
 </div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg">
-  </picture>
-</p> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake-dark.svg?cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg?cache_seconds=1800">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriBortolato/YuriBortolato/output/github-contribution-grid-snake.svg?cache_seconds=1800">
+  </picture>
+</p>
