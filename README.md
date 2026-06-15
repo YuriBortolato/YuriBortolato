@@ -26,6 +26,16 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
 
 ---
 
+### 🏆 Projeto em Destaque
+
+**🎮 [Proterz - Arcade & Daily Games](https://proterz.vercel.app/)**
+Uma plataforma completa de minigames de navegador construída com Vanilla JS, focada em pratica e jogabilidade. 
+* **Jogos Clássicos:** Xadrez, Damas, Jogo da Velha e Barricade (com Inteligência Artificial integrada e heurística avançada).
+* **Desafios Diários:** Termo (validação de dicionário híbrido) e Color (desafio de memória visual com física de cores HSB).
+* **Engenharia:** Sistema de Internacionalização (PT, EN, ES), persistência de estatísticas do jogador via `LocalStorage` e integração com `Canvas 2D API` para geração e compartilhamento dinâmico de resultados nas redes sociais.
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Backend:**
@@ -57,7 +67,6 @@ Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortola
     <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=43200" alt="GitHub Stats Tier List"/>
   </a>
 </div>
-
 
 ---
 
