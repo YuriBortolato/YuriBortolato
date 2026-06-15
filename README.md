@@ -6,7 +6,7 @@
   <a href="mailto:yurigbort@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-gabriel-bortolato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+ 
 ---
 ### 👋 Hello, Devs!!
 Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos os dias. No código, sou um entusiasta da resolução de problemas e da construção de sistemas que funcionam. Quando não estou codando, provavelmente estou imerso em algum jogo de terror ou buscando a próxima dose de adrenalina.
