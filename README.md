@@ -8,51 +8,52 @@
 </div>
  
 ---
-### 👋 Hello, Devs!!
-Tenho 22 anos, sou do Paraná e movido pelo desafio de aprender algo novo todos os dias. No código, sou um entusiasta da resolução de problemas e da construção de sistemas que funcionam. Quando não estou codando, provavelmente estou imerso em algum jogo de terror ou buscando a próxima dose de adrenalina.
+### 👋 Olá, Devs!!
+
+Tenho 22 anos, sou do Paraná e movido pelo desafio de solucionar problemas complexos através do código. Sou focado em construir sistemas eficientes, organizados e escaláveis. Quando não estou programando, provavelmente estou na academia, jogando algo no PC, testando alguma impressão 3D ou automatizando rotinas com IA.
 
 ---
 
 ### 👨‍💻 Sobre mim
 
 * 🌐 **Acesse meu site:** Veja meus principais projetos e experiências no meu [Portfólio Pessoal](https://yuribortolato.vercel.app/).
-* 💻 Cursando Análise e Desenvolvimento de Sistemas na UMFG.
-* 📚 Estudando .NET, Java, Spring Boot, Python e Desenvolvimento Web.
-* 💼 Experiência com **Delphi**, atuando na manutenção e evolução de sistemas.
-* 🚀 Focado em expandir meu stack backend com **Spring Boot**, e iniciando a jornada em **Golang** e **React**.
-* ☕🎮 Curto uma adrenalina, sou fã de games (principalmente os de terror) e entusiasta de **N8N** e **Python**.
+* 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UMFG.
+* 🚀 Focado em desenvolvimento backend moderno com **Go (Gin)** e **Java (Spring Boot)**, além de criar interfaces fluidas com **React**. **Flutter** e **React Native (Expo)**.
+* 🛠️ Experiência com arquiteturas multi-tenant, integrações de APIs, automações de fluxos e migrações de banco de dados (Flyway).
+* 💼 Vivência prática com manutenção e evolução de sistemas legados (**Delphi Mobile**) e forte interesse em Engenharia de Software e QA/Automação.
 
-Quer trocar uma ideia? Me chama no [Instagram](https://instagram.com/yuribortolat_) 
+Quer trocar uma ideia sobre tecnologia ou novos projetos? Me chama no [LinkedIn](https://www.linkedin.com/in/yuri-gabriel-bortolato) ou no [Instagram](https://instagram.com/yuribortolat_)!
 
 ---
 
-### 🏆 Projeto em Destaque
+### 🏆 Projetos em Destaque
+
+**🚀 [ctrlBase](https://github.com/YuriBortolato) `🛠️ Em Desenvolvimento`**
+Sistema ERP completo desenvolvido como projeto de conclusão de curso, focado em gerenciamento de estoque e controle empresarial utilizando arquitetura multi-tenant e boas práticas de desenvolvimento backend.
+
+**📱 [SyncHome](https://github.com/YuriBortolato) `🛠️ Em Desenvolvimento`**
+Aplicação mobile independente estruturada com um ecossistema moderno: backend robusto e veloz em **Go (Gin)** integrado a um app mobile em **React Native com Expo**.
 
 **🎮 [Proterz - Arcade & Daily Games](https://proterz.vercel.app/)**
-Uma plataforma completa de minigames de navegador construída com Vanilla JS, focada em pratica e jogabilidade. 
+Uma plataforma completa de minigames de navegador construída com Vanilla JS, focada em prática e jogabilidade. 
 * **Jogos Clássicos:** Xadrez, Damas, Jogo da Velha e Barricade (com Inteligência Artificial integrada e heurística avançada).
-* **Desafios Diários:** Termo (validação de dicionário híbrido) e Color (desafio de memória visual com física de cores HSB).
-* **Engenharia:** Sistema de Internacionalização (PT, EN, ES), persistência de estatísticas do jogador via `LocalStorage` e integração com `Canvas 2D API` para geração e compartilhamento dinâmico de resultados nas redes sociais.
+
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Backend:**
+**Backend & Linguagens:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,cs,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,python,postgres,mysql)](https://skillicons.dev)
 
 **Front-end & Mobile:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,html,css,js)](https://skillicons.dev)
 
-**Banco de Dados:**
+**Ferramentas, Práticas & Hobbies:**
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
-
-**Outras tecnologias e Hobbies:**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,Unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,postman)](https://skillicons.dev)
 
 ---
 
@@ -71,7 +72,7 @@ Uma plataforma completa de minigames de navegador construída com Vanilla JS, fo
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIWS&cache_seconds=43200" alt="Viws" />
+  <img src="https://komarev.com/ghpvc/?username=YuriBortolato&color=C5A02E&style=flat-square&label=VIEWS&cache_seconds=43200" alt="Views" />
 </div>
 
 <p align="center">
