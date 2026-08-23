@@ -63,9 +63,8 @@ Uma plataforma completa de minigames de navegador construída com Vanilla JS, fo
   </a>
   <br><br>
   
-
   <a href="https://github.com/YuriBortolato">
-    <img src="https://api-readme-stats-git-main-yuriborts-projects.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=43200" alt="GitHub Stats Tier List"/>
+    <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=43200&v=1" alt="GitHub Stats Tier List"/>
   </a>
 </div>
 
