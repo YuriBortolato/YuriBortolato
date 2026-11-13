@@ -10,17 +10,17 @@
 ---
 ### 👋 Olá, Devs!!
 
-Tenho 22 anos, sou do Paraná e movido pelo desafio de solucionar problemas complexos através do código. Sou focado em construir sistemas eficientes, organizados e escaláveis. Quando não estou programando, provavelmente estou na academia, jogando algo no PC, testando alguma impressão 3D ou automatizando rotinas com IA.
+Tenho 22 anos, sou do Paraná e movido pelo desafio de solucionar problemas complexos através do código. Sou focado em construir sistemas eficientes, organizados e escaláveis. Quando não estou programando, provavelmente estou na academia, jogando algo no PC, modelando e testando alguma impressão 3D ou automatizando rotinas com IA.
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-* 🌐 **Acesse meu site:** Veja meus principais projetos e experiências no meu [Portfólio Pessoal](https://yuribortolato.vercel.app/).
-* 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UMFG.
-* 🚀 Focado em desenvolvimento backend moderno com **Go (Gin)** e **Java (Spring Boot)**, além de criar interfaces fluidas com **React**. **Flutter** e **React Native (Expo)**.
-* 🛠️ Experiência com arquiteturas multi-tenant, integrações de APIs, automações de fluxos e migrações de banco de dados (Flyway).
-* 💼 Vivência prática com manutenção e evolução de sistemas legados (**Delphi Mobile**) e forte interesse em Engenharia de Software e QA/Automação.
+- 🌐 **Acesse meu site:** Veja meus principais projetos e experiências no meu [Portfólio Pessoal](https://yuribortolato.vercel.app/).
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UMFG.
+- 💼 Atuo como **Desenvolvedor Full-Stack** trabalhando com **PHP (Laravel)** e integração de sistemas corporativos, além de vivência prática com **Delphi Mobile** e QA.
+- 🚀 Projetos focados em desenvolvimento backend com **Go (Gin)** e **Java (Spring Boot)**, aliado à criação de interfaces e simuladores interativos com **React**, **TypeScript**, **Phaser**, **Flutter** e **React Native (Expo)**.
+- 🛠️ Experiência com arquiteturas multi-tenant, APIs RESTful, bancos relacionais e NoSQL (PostgreSQL, MySQL, Redis).
 
 Quer trocar uma ideia sobre tecnologia ou novos projetos? Me chama no [LinkedIn](https://www.linkedin.com/in/yuri-gabriel-bortolato) ou no [Instagram](https://instagram.com/yuribortolat_)!
 
@@ -29,31 +29,34 @@ Quer trocar uma ideia sobre tecnologia ou novos projetos? Me chama no [LinkedIn]
 ### 🏆 Projetos em Destaque
 
 **🚀 [ctrlBase](https://github.com/YuriBortolato) `🛠️ Em Desenvolvimento`**
-Sistema ERP completo desenvolvido como projeto de conclusão de curso, focado em gerenciamento de estoque e controle empresarial utilizando arquitetura multi-tenant e boas práticas de desenvolvimento backend.
+Sistema ERP completo desenvolvido como projeto de conclusão de curso, focado em gerenciamento de estoque e controle empresarial utilizando **Java (Spring Boot)**, **PostgreSQL**, arquitetura multi-tenant e boas práticas de engenharia de software.
 
 **📱 [SyncHome](https://github.com/YuriBortolato) `🛠️ Em Desenvolvimento`**
 Aplicação mobile independente estruturada com um ecossistema moderno: backend robusto e veloz em **Go (Gin)** integrado a um app mobile em **React Native com Expo**.
 
 **🎮 [Proterz - Arcade & Daily Games](https://proterz.vercel.app/)**
 Uma plataforma completa de minigames de navegador construída com Vanilla JS, focada em prática e jogabilidade. 
-* **Jogos Clássicos:** Xadrez, Damas, Jogo da Velha e Barricade (com Inteligência Artificial integrada e heurística avançada).
+- **Jogos Clássicos:** Xadrez, Damas, Jogo da Velha e Barricade (com Inteligência Artificial integrada utilizando algoritmos Minimax e heurística avançada).
 
+**🌕 [CtrlAstro - Simulador Lunar Artemis](https://ctrlastro.vercel.app/)**
+Simulador tático e educativo em 2.5D da Base Lunar Shackleton inspirado no Programa Artemis da NASA, com suporte multilíngue (PT/EN/ES) e responsividade completa para Desktop e Mobile.
+- **Arquitetura Full-Stack:** Motor isométrico 2.5D construído em **React**, **TypeScript** e **Phaser 4**, integrado a uma API Serverless em **Go (Gin)** e **Redis** para Ranking Global em tempo real e telemetria de 10 fenômenos reais da Lua.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Backend & Linguagens:**
+**Backend & Banco de Dados:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,python,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,php,laravel,cs,python,postgres,mysql,redis)](https://skillicons.dev)
 
 **Front-end & Mobile:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,flutter,html,css,tailwind)](https://skillicons.dev)
 
-**Ferramentas, Práticas & Hobbies:**
+**Ferramentas, DevOps & Práticas:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,figma,postman)](https://skillicons.dev)
 
 ---
 
@@ -62,7 +65,7 @@ Uma plataforma completa de minigames de navegador construída com Vanilla JS, fo
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriBortolato&theme=highcontrast&hide_border=true&cache_seconds=43200" alt="GitHub Streak" />
   </a>
   <br><br>
-  
+   
   <a href="https://github.com/YuriBortolato">
     <img src="https://api-readme-stats.vercel.app/api?username=YuriBortolato&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=43200&v=1" alt="GitHub Stats Tier List"/>
   </a>
