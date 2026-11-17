@@ -28,10 +28,10 @@ Quer trocar uma ideia sobre tecnologia ou novos projetos? Me chama no [LinkedIn]
 
 ### 🏆 Projetos em Destaque
 
-**🚀 [ctrlBase]([https://github.com/YuriBortolato](https://yuribortolato.vercel.app/projetos/ctrlbase)) `🛠️ Em Desenvolvimento`**
+**🚀 [ctrlBase](https://yuribortolato.vercel.app/projetos/ctrlbase) `🛠️ Em Desenvolvimento`**
 Sistema ERP completo desenvolvido como projeto de conclusão de curso, focado em gerenciamento de estoque e controle empresarial utilizando **Java (Spring Boot)**, **PostgreSQL**, arquitetura multi-tenant e boas práticas de engenharia de software.
 
-**📱 [SyncHome]([https://github.com/YuriBortolato](https://yuribortolato.vercel.app/projetos/roomee)) `🛠️ Em Desenvolvimento`**
+**📱 [SyncHome](https://yuribortolato.vercel.app/projetos/roomee) `🛠️ Em Desenvolvimento`**
 Aplicação mobile independente estruturada com um ecossistema moderno: backend robusto e veloz em **Go (Gin)** integrado a um app mobile em **React Native com Expo**.
 
 **🎮 [Proterz - Arcade & Daily Games](https://proterz.vercel.app/)**
